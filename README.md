@@ -6,7 +6,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ### General
 * What is Emacs
-* Who is [Richard Stallman](https://stallman.org/saint.html)
+* Who is [Richard Stallman](https://www.britannica.com/biography/Richard-Stallman)
 * How to open and save files
 * What is a buffer and how to switch from one to the other
 * How to use the mark and the point to set the region
